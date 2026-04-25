@@ -11,7 +11,6 @@ export default function CompactLayout({ data }: { data: ResumeData }) {
     return (
         <div style={{
             background: '#0f172a',
-            // background: sc,
             width: '100%',
             minHeight: '297mm',
             fontFamily: "'Orbitron', sans-serif",
